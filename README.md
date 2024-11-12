@@ -5,11 +5,11 @@ This repository showcases my professional and technical certifications from vari
 
 1. **Introduction to Cloud Computing**  
    - *Issued by*: Coursera  
-   - [View Certificate]([link_to_certificate](https://coursera.org/share/1affa1eac5f3f826fad79ab79368146a))
+   - [View Certificate](https://coursera.org/share/1affa1eac5f3f826fad79ab79368146a)
 
 2. **Introduction to DevOps**  
    - *Issued by*: Coursera  
-   - [View Certificate]([link_to_certificate](https://coursera.org/share/dcdfce2f4b80858b58f5e34de5059439))
+   - [View Certificate](https://coursera.org/share/dcdfce2f4b80858b58f5e34de5059439)
 
 ## Skills Highlighted
 - Cloud Computing
