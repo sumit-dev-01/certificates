@@ -11,6 +11,11 @@ This repository showcases my professional and technical certifications from vari
    - *Issued by*: Coursera  
    - [View Certificate](https://coursera.org/share/dcdfce2f4b80858b58f5e34de5059439)
 
+2. **Introduction to Agile Development and Scrum**  
+   - *Issued by*: Coursera  
+   - [View Certificate](https://coursera.org/share/ebb2b942b0d2c94cd7e8e08b991c644e)
+
+
 ## Skills Highlighted
 - Cloud Computing
 - DevOps
