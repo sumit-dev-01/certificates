@@ -2,7 +2,7 @@
 This repository showcases my professional and technical certifications from various platforms, including Coursera. These certifications highlight my skills and expertise in cloud computing, DevOps, software engineering, and more.
 
 ## Certifications
-1. **Python for Data Science, AI & Development**  
+ 1. **Python for Data Science, AI & Development**  
    - *Issued by*: Coursera  
    - [View Certificate](https://coursera.org/share/b50dd18ceec89298fc6790718494aff5)
 
