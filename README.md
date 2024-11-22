@@ -2,6 +2,10 @@
 This repository showcases my professional and technical certifications from various platforms, including Coursera. These certifications highlight my skills and expertise in cloud computing, DevOps, software engineering, and more.
 
 ## Certifications
+1. **Python for Data Science, AI & Development**  
+   - *Issued by*: Coursera  
+   - [View Certificate](https://coursera.org/share/b50dd18ceec89298fc6790718494aff5)
+
  1. **Hands-on Introduction to Linux Commands and Shell Scripting**  
    - *Issued by*: Coursera  
    - [View Certificate](https://coursera.org/share/276b93f51821b7f6eba518a07b59e73f)
